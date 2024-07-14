@@ -14,4 +14,6 @@
 
 ## ℹ Sobre o projeto
 
-Essa foi a primeira matéria relacionada a programação da faculdade, então foi utilizada apenas pseudolinguagem, e não uma linguagem de verdade. Porém, a professora queria algo grande e bonito 🤨😏 então o código deu bastante trabalho e ficou bem extenso mas ficou bom no final.
+Essa foi a primeira matéria relacionada a programação da faculdade, então foi utilizada apenas pseudolinguagem, e não uma linguagem de verdade. Porém, a professora queria algo grande e bonito 🤨😏 com interface, menu, interações com o usuário, então o código deu bastante trabalho (quase 1000 linhas 💀💀💀) e ficou bem extenso mas ficou bom no final.
+
+<a href="https://github.com/TiozinDoPicole/ProjetoFinal-AP1/blob/main/ProjetoFinalAP1.alg">Ir para o projeto
