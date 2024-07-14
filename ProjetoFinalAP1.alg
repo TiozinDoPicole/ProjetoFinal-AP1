@@ -1,7 +1,7 @@
 Algoritmo "Projeto final - AP1"
 // Disciplina  : Algoritmos e programação 1
 // Professor   : Ana Paula Vilela
-// Descrição   : Sistema de segurança para laboratórios com
+// Descrição   : Sistema de segurança para laboratórios
 // Autores     : Gustavo Fé Alves, Gabriel Assis de Souza, João Lucas Gonçalves Martins
 // Data de entrega  : 23/09/2023
 Var
